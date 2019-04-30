@@ -1,0 +1,6 @@
+spring:
+  mail:
+    host: smtp.qq.com
+    username: your email
+    password: your authorization code
+    default-encoding: UTF-8
